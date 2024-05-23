@@ -17,24 +17,6 @@ To run this application locally, you'll need:
 - Maven
 - Git
 
-Follow these steps to run the application:
-
-
-1. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-
-2. Build the project using Maven:
-   ```bash
-   mvn clean package
-   ```
-
-3. Run the Spring Boot application:
-   ```bash
-   java -jar target/restcontroller-0.0.1-SNAPSHOT.jar
-   ```
-
 ## Usage
 
 ### Retrieve All Job Posts
